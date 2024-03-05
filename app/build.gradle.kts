@@ -62,4 +62,7 @@ dependencies {
 
     // Add the dependency for the Realtime Database library
     implementation("com.google.firebase:firebase-database")
+
+    // Declare the dependency for the Cloud Firestore library
+    implementation("com.google.firebase:firebase-firestore")
 }

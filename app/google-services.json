@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262901936095",
+    "project_id": "fir-kotlin-f51eb",
+    "storage_bucket": "fir-kotlin-f51eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262901936095:android:767f764c9f64f61bc5de6a",
+        "android_client_info": {
+          "package_name": "com.sumitbhuia.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZQKS5sxc8TkaeqixlRTOta2IZTOMBM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
